@@ -1,0 +1,19 @@
+# 凭据 —— 绝不提交
+*.env
+.env
+.env.*
+binance-auth.json
+okx-auth.json
+*-auth.json
+*secret*
+*token*
+api.txt
+
+# 状态与产物
+*.log
+.tmp-*
+.tmp*.json
+.brief-qq-state.json
+.qq-token.json
+scripts/_trash/
+node_modules/
